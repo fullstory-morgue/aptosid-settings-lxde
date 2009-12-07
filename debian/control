@@ -1,0 +1,15 @@
+Source: sidux-settings-lxde
+Section: graphics
+Priority: extra
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-settings-lxde/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-settings-lxde/trunk/
+
+Package: sidux-settings-lxde
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: provide default LXDE settings for sidux
+ Provides default settings for appearance and applications of the LXDE
+ desktop in sidux.
