@@ -1,5 +1,9 @@
 sidux-settings-lxde (0.0.0) unstable; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * Initial dummy release.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 07 Dec 2009 19:06:42 +0100
+  [ Chris Hildebrandt ]
+  * add slim.conf for sidux live mode, sync from noc.sidux.com/lxde
+
+ -- Chris Hildebrandt <slam@sidux.com>  Tue, 08 Dec 2009 11:55:26 +0100
