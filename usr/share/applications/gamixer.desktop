@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Exec=gamix
+Icon=gnome-mixer.png
+Terminal=false
+
+Name=Gamix
+Name[de]=Gamix
+Name[ru]=Gamix
+
+Comment=Graphical audio mixer
+Comment[de]=Lautstärkeregler
+Comment[ru]=Звуковой микшер
+
+Categories=Application;AudioVideo;
