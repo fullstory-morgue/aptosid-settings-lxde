@@ -6,4 +6,7 @@ sidux-settings-lxde (0.0.0) unstable; urgency=low
   [ Chris Hildebrandt ]
   * sync with noc
 
- -- Chris Hildebrandt <slam@sidux.com>  Fri, 25 Dec 2009 11:37:02 +0100
+  [ Stefan Lippers-Hollmann ]
+  * Switch to dpkg-source 3.0 (native) format.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 27 Feb 2010 23:12:47 +0100
