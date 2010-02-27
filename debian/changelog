@@ -1,4 +1,6 @@
-sidux-settings-lxde (0.0.0) unstable; urgency=low
+sidux-settings-lxde (0.0.0) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
 
   [ Roland Engert ]
   * delete slim.conf for sidux
