@@ -1,3 +1,9 @@
+sidux-settings-lxde (0.0.1) UNRELEASED; urgency=low
+
+  * replace slim with lxdm, enable autologin and background image for lxdm
+
+ -- Chris Hildebrandt <slam@sidux.com>  Sun, 09 May 2010 10:00:31 +0200
+
 sidux-settings-lxde (0.0.0) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
