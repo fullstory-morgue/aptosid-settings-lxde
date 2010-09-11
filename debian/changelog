@@ -12,9 +12,10 @@ sidux-settings-lxde (0.0.0) UNRELEASED; urgency=low
   * Switch to dpkg-source 3.0 (native) format.
   * bump standards version to 3.9.1, no changes necessary.
   * update for Κῆρες.
+  * switch to compat level 8.
 
   [ Chris Hildebrandt ]
   * replace slim with lxdm, enable autologin and background image for lxdm
   * re-add slim.conf for alterative use of slim
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 04:40:55 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:26:51 +0200
