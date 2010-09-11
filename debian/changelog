@@ -1,9 +1,9 @@
-sidux-settings-lxde (0.0.0) UNRELEASED; urgency=low
+aptosid-settings-lxde (0.0.0) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
 
   [ Roland Engert ]
-  * delete slim.conf for sidux
+  * delete slim.conf for aptosid
 
   [ Chris Hildebrandt ]
   * sync with noc
@@ -13,9 +13,10 @@ sidux-settings-lxde (0.0.0) UNRELEASED; urgency=low
   * bump standards version to 3.9.1, no changes necessary.
   * update for Κῆρες.
   * switch to compat level 8.
+  * adapt for aptosid.
 
   [ Chris Hildebrandt ]
   * replace slim with lxdm, enable autologin and background image for lxdm
   * re-add slim.conf for alterative use of slim
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:26:51 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Aug 2010 22:32:44 +0200

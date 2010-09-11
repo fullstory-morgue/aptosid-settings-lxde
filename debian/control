@@ -1,15 +1,15 @@
-Source: sidux-settings-lxde
+Source: aptosid-settings-lxde
 Section: graphics
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7.9.3)
 Standards-Version: 3.9.1
-Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-settings-lxde/trunk
-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-settings-lxde/trunk/
+Vcs-Svn: svn://svn.berlios.de/fullstory/aptosid-settings-lxde/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/aptosid-settings-lxde/trunk/
 
-Package: sidux-settings-lxde
+Package: aptosid-settings-lxde
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: provide default LXDE settings for sidux
+Description: provide default LXDE settings for aptosid
  Provides default settings for appearance and applications of the LXDE
- desktop in sidux.
+ desktop in aptosid.
