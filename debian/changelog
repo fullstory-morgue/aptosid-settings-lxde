@@ -10,9 +10,10 @@ sidux-settings-lxde (0.0.0) UNRELEASED; urgency=low
 
   [ Stefan Lippers-Hollmann ]
   * Switch to dpkg-source 3.0 (native) format.
+  * bump standards version to 3.9.1, no changes necessary.
 
   [ Chris Hildebrandt ]
   * replace slim with lxdm, enable autologin and background image for lxdm
   * re-add slim.conf for alterative use of slim
 
- -- Chris Hildebrandt <slam@sidux.com>  Tue, 11 May 2010 08:35:33 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 01:41:14 +0200
